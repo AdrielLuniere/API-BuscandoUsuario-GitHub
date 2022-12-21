@@ -10,11 +10,11 @@ Projeto do curso DevQuest, com API de busca de usuários do GitHub.
 
  # Modo de usar ⚒
 
-✔ clique no link do projeto<br>
+✔ Clica no link do projeto<br>
 ✔ https://projetoapibuscandousuario.netlify.app/ <br>
 ✔ Digite seu nome de usuário do GitHub<br>
-✔ Precione ENTER ou clique em buscar<br>
-✔ Busca os últimos 10 repositórios, eventos e commits<br>
+✔ Precione Enter ou Clica em buscar<br>
+✔ Busca os últimos 10 repositórios eventos e commits<br>
 
 
 # Criador
